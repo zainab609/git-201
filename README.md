@@ -103,7 +103,7 @@ Now that the commit has been written, it's time to share it with the world.
 Person 1, type `git push -u origin master`.
 
 *Sidenote*: The `-u origin master` is only necessary the first time you push to
-a repository. It tells git that you want to track the remote names origin and
+a repository. It tells git that you want to track the remote named origin and
 the branch named master.
 
 ## A second fix
