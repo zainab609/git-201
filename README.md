@@ -4,7 +4,10 @@ This repository should be forked as part of the collaborative Git exercises.
 
 ## Overview
 
-*Brief overview of how Git works and install instructions if needed.*
+This focuses on slightly-more-advanced-than-an-introduction features of git. If
+you're new to git, consider checking out our
+[intoduction presentation](https://jmunixusers.github.io/presentations/Git) and
+then come back and give this a try!
 
 The examples and situations are specifically arranged to result in certain
 issues that will naturally come up in collaborative environments. Please avoid
