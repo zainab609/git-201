@@ -172,7 +172,7 @@ lines; just change the lines as needed and remove the ones with `>>>`,
 `===`, and `<<<`.
 
 After making the changes to the file, tell git that you're done resolving the
-conflict by running `git add README.txt`. Then run `git merge --continue`.
+conflict by running `git add CHANGEME.txt`. Then run `git merge --continue`.
 
 Person 1 will now need to create a merge commit. Just leave the message as
 the default. Person 1 should `git push` and Person 2 should `git pull`.
