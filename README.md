@@ -6,7 +6,7 @@ This repository should be forked as part of the collaborative Git exercises.
 
 This focuses on slightly-more-advanced-than-an-introduction features of git. If
 you're new to git, consider checking out our
-[intoduction presentation](https://jmunixusers.github.io/presentations/Git) and
+[introduction presentation](https://jmunixusers.org/presentations/git101) and
 then come back and give this a try!
 
 The examples and situations are specifically arranged to result in certain
@@ -103,11 +103,11 @@ vim to write the message, press the Esc key and then type ":wq" and press Enter.
 ### Pushing the commit
 
 Now that the commit has been written, it's time to share it with the world.
-Person 1, type `git push -u origin master`.
+Person 1, type `git push -u origin main`.
 
-*Sidenote*: The `-u origin master` is only necessary the first time you push to
+*Sidenote*: The `-u origin main` is only necessary the first time you push to
 a repository. It tells git that you want to track the remote named origin and
-the branch named master.
+the branch named main.
 
 ## A second fix
 
@@ -116,7 +116,7 @@ needs to be replaced with the letter "E". Make the change in the file, add
 the file to the stage with `git add CHANGEME.txt`, then `git commit`. Write a
 commit message.
 
-Now type `git push -u origin master`.
+Now type `git push -u origin main`.
 
 ### How to fix the error
 
