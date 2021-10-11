@@ -35,7 +35,7 @@ team members should accept the invite.
 
 ## Cloning
 
-To clone the repository, run `git clone https://github.com/$USERNAME/git-201`.
+To clone the repository, run `git clone git@github.com/$USERNAME/git-201`.
 Replace `$USERNAME` with Person 1's GitHub username. Then type `cd git-201`.
 
 ## Set up
