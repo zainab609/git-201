@@ -184,7 +184,7 @@ change they want to push and making everyone else `git pull`. This can be
 minimized with using branches. Generally branches that are made for the purpose
 of fixing a particular issue are referred to as topic branches.
 
-`git checkout` is a tool to switch between branches and when passed the `-b`
+`git switch` is a tool to switch between branches and when passed the `-c`
 flag, it will create the branch if it doesn't exist.
 
 We will play around with these and how to turn them into Pull Requests.
